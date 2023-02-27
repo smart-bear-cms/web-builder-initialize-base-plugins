@@ -11,19 +11,9 @@ use nguyenanhung\Platforms\WebBuilderSDK\Initialize\BasePlugins\Template\Templat
  * @package   nguyenanhung\Platforms\WebBuilderSDK\Initialize\BasePlugins\Base
  * @author    713uk13m <dev@nguyenanhung.com>
  * @copyright 713uk13m <dev@nguyenanhung.com>
- *
- * @property \nguyenanhung\Platforms\WebBuilderSDK\Initialize\BasePlugins\Database\Database $db
  */
 class BaseCore extends InitializeBaseCore
 {
-    const VERSION = '1.0.0';
-    const KEY_DATABASE = 'DATABASE';
-    const KEY_OPTIONS = 'OPTIONS';
-    const KEY_AUTH = 'AUTH';
-    const KEY_CONFIG = 'CONFIG';
-    const KEY_API_SERVICE = 'API_SERVICE';
-    const KEY_HANDLE = 'HANDLE';
-
     /**
      * BaseCore constructor.
      *
@@ -44,7 +34,7 @@ class BaseCore extends InitializeBaseCore
      * @return string
      * @author   : 713uk13m <dev@nguyenanhung.com>
      * @copyright: 713uk13m <dev@nguyenanhung.com>
-     * @time     : 02/07/2022 09:02
+     * @time     : 27/02/2023 30:41
      */
     public function responseToHtml()
     {

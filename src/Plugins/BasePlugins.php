@@ -4,6 +4,7 @@ namespace nguyenanhung\Platforms\WebBuilderSDK\Initialize\BasePlugins\Plugins;
 
 
 use nguyenanhung\Platforms\WebBuilderSDK\Initialize\BasePlugins\Base\BaseCore;
+use nguyenanhung\Platforms\WebBuilderSDK\Initialize\BasePlugins\Database\Database;
 
 /**
  * Class BasePlugins
@@ -26,5 +27,6 @@ class BasePlugins extends BaseCore
     {
         parent::__construct($options);
         $this->logger->setLoggerSubPath(__CLASS__);
+        $this->db = new Database($options);
     }
 }
