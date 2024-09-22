@@ -1,4 +1,7 @@
-[![Latest Stable Version](http://poser.pugx.org/web-builder-sdk/initialize-base-plugins/v)](https://packagist.org/packages/web-builder-sdk/initialize-base-plugins) [![Total Downloads](http://poser.pugx.org/web-builder-sdk/initialize-base-plugins/downloads)](https://packagist.org/packages/web-builder-sdk/initialize-base-plugins) [![Latest Unstable Version](http://poser.pugx.org/web-builder-sdk/initialize-base-plugins/v/unstable)](https://packagist.org/packages/web-builder-sdk/initialize-base-plugins) [![License](http://poser.pugx.org/web-builder-sdk/initialize-base-plugins/license)](https://packagist.org/packages/web-builder-sdk/initialize-base-plugins) [![PHP Version Require](http://poser.pugx.org/web-builder-sdk/initialize-base-plugins/require/php)](https://packagist.org/packages/web-builder-sdk/initialize-base-plugins)
+[![Latest Stable Version](https://img.shields.io/packagist/v/web-builder-sdk/initialize-base-plugins.svg?style=flat-square)](https://packagist.org/packages/web-builder-sdk/initialize-base-plugins)
+[![Total Downloads](https://img.shields.io/packagist/dt/web-builder-sdk/initialize-base-plugins.svg?style=flat-square)](https://packagist.org/packages/web-builder-sdk/initialize-base-plugins)
+[![License](https://img.shields.io/packagist/l/web-builder-sdk/initialize-base-plugins.svg?style=flat-square)](https://packagist.org/packages/web-builder-sdk/initialize-base-plugins)
+[![PHP Version Require](https://img.shields.io/packagist/dependency-v/web-builder-sdk/initialize-base-plugins/php)](https://packagist.org/packages/web-builder-sdk/initialize-base-plugins)
 
 # Web Builder SDK Module - Base Plugins
 
